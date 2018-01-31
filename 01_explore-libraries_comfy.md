@@ -1,7 +1,7 @@
 01\_explore-libraries\_comfy.R
 ================
 luisd
-Wed Jan 31 14:11:57 2018
+Wed Jan 31 14:14:17 2018
 
 Which libraries does R search for packages?
 
@@ -30,7 +30,11 @@ Installed packages
 ## remember to use View() or similar to inspect
 
 ## how many packages?
+
+23-2
 ```
+
+    ## [1] 21
 
 Exploring the packages
 

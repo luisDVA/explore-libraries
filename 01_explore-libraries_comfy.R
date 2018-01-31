@@ -17,6 +17,7 @@
 
 ## how many packages?
 
+23-2
 
 #' Exploring the packages
 
@@ -29,7 +30,7 @@
 # data %>% count(var)
 # data %>% count(var1, var2)
 # data %>% count(var) %>% mutate(prop = n / sum(n))
-
+sessionInfo()
 #' Reflections
 
 ## reflect on ^^ and make a few notes to yourself; inspiration
