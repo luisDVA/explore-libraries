@@ -1,7 +1,7 @@
 01\_explore-libraries\_comfy.R
 ================
 luisd
-Wed Jan 31 14:10:55 2018
+Wed Jan 31 14:11:57 2018
 
 Which libraries does R search for packages?
 
