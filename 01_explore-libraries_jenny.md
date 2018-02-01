@@ -1,7 +1,9 @@
-CRISP DOCUMENT OUTPUT
+SO CRISP
 ================
 luisd
-Wed Jan 31 14:38:41 2018
+Wed Jan 31 14:49:32 2018
+
+(ctrl-shift-k makes this report)
 
 Load packages (install first if needed)
 

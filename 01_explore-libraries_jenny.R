@@ -1,7 +1,13 @@
 #' ---
-#' title: CRISP DOCUMENT OUTPUT
-#' output: github_document
+#' title: SO CRISP
+#' 
 #' ---
+
+#' (ctrl-shift-k makes this report)
+#' 
+#' 
+
+emo::ji("dog")
 
 #' Load packages (install first if needed)
 library(fs)
